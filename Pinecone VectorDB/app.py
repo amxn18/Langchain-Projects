@@ -5,7 +5,7 @@ from langchain_pinecone import PineconeVectorStore
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
-
+# https://www.pinecone.io/
 load_dotenv()  
 
 llm = HuggingFaceEndpoint(
