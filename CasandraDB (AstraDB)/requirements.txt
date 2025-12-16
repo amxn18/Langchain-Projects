@@ -1,0 +1,3 @@
+langchain-astradb
+astrapy
+python-dotenv
